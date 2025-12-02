@@ -85,7 +85,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ```bibtex
 @software{
-    Dalageorgos_TwinCAT-VirtualTram_2024,
+    Dalageorgos_twincat-virtual-tram_2024,
     author = {Dalageorgos, Konstantinos},
     license = {CC-BY-NC-SA-4.0},
     month = jul,
