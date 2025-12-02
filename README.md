@@ -1,8 +1,8 @@
-<div align="left">
+<div align="center">
   <img src="https://github.com/Dalageo/TwinCAT-VirtualAGV/assets/153513781/498163f4-35a1-45b9-a442-9889c5e9966e" alt="Bechoff TwinCat" width="700"/>
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://www.beckhoff.com/en-en/products/automation/twincat/" target="_blank">
     <img src="https://img.shields.io/badge/TwinCAT-3.1.4024.55-blue" alt="TwinCAT 3.1.4024.55"></a>
   <a href="https://github.com/Dalageo/TwinCAT-VirtualTram/blob/main/LICENSE" target="_blank">
@@ -21,9 +21,24 @@ The designed system allows for both manual and automatic operation of the tram, 
 - **Mode Transition Control**: To switch from automatic to manual mode, the tram must first be stopped at the home station before changing modes.
 - **Tram Position and Status Monitoring**: Sensors confirm the tram's presence at stations by turning green, while the HMI provides real-time updates on tram status, including location, movement, and emergency stop.
 
-| Tram | HMI |
-|------|-----|
-| <img src="https://github.com/Dalageo/TwinCAT-VirtualTram/assets/153513781/fc165a58-38da-4509-9efa-9b0c05afccc7" alt="Tram" width="520"/> | <img src="https://github.com/Dalageo/TwinCAT-VirtualTram/assets/153513781/79a958f4-410f-430c-aef5-23a8f577fa44" alt="HMI" width="250"/> |
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Tram</th>
+        <th align="center">HMI</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><img src="https://github.com/Dalageo/TwinCAT-VirtualTram/assets/153513781/fc165a58-38da-4509-9efa-9b0c05afccc7" alt="Tram" width="520" style="display: block; margin: 0 auto;"/></td>
+        <td align="center"><img src="https://github.com/Dalageo/TwinCAT-VirtualTram/assets/153513781/79a958f4-410f-430c-aef5-23a8f577fa44" alt="HMI" width="250" style="display: block; margin: 0 auto;"/></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 ## Setup Instructions
 
@@ -58,21 +73,25 @@ This project was part of a master course assignment at [University West](https:/
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). It was chosen to prevent commercial use and to promote free access and open collaboration, ensuring any adaptations remain freely available to everyone.
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+<div align="center">
+  <br>
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/66ee5a84-1749-44af-9be4-68365c3e62ce" width="200">
+  </a>
+</div>
 
 ## Citation
 
 ```bibtex
-@software{Dalageorgos_TwinCAT-VirtualTram_2024,
-author = {Dalageorgos, Konstantinos},
-license = {CC-BY-NC-SA-4.0},
-month = jul,
-title = {{TwinCAT-VirtualTram}},
-url = {https://github.com/Dalageo/TwinCAT-VirtualTram},
-version = {1.0.0},
-year = {2024}
-}
+@software{
+    Dalageorgos_TwinCAT-VirtualTram_2024,
+    author = {Dalageorgos, Konstantinos},
+    license = {CC-BY-NC-SA-4.0},
+    month = jul,
+    title = {{twincat-virtual-tram}},
+    url = {https://github.com/Dalageo/twincat-virtual-tram},
+    version = {1.0.0},
+    year = {2024},
+    publisher = {GitHub}
+ }
