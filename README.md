@@ -73,7 +73,6 @@ This project was part of a master course assignment at [University West](https:/
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). It was chosen to prevent commercial use and to promote free access and open collaboration, ensuring any adaptations remain freely available to everyone.
 
-
 <div align="center">
   <br>
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">
