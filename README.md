@@ -47,7 +47,7 @@ The designed system allows for both manual and automatic operation of the tram, 
    
 2. **Clone the repository:**
    ```sh
-   git clone https://github.com/Dalageo/TwinCAT-VirtualTram.git
+   git clone https://github.com/Dalageo/twincat-virtual-tram.git
    
 3. **Navigate to the cloned directory and execute the `TwinCAT Virtual Tram.sln` solution file.**
 
